@@ -1,4 +1,4 @@
-
+<img width="1031" alt="img3" src="https://user-images.githubusercontent.com/53885957/209936168-f3ac06ee-70e7-4781-b13b-980aca6f39b1.png">
 <div align="center">
 Jaegeun profile🧑🏻‍💻
 
