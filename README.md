@@ -1,12 +1,16 @@
-<div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jaegeun%20Github!&fontSize=90" />	
-</div>
 <div align="center">	
 	<h1>Profile🧑🏻‍💻</h1>
+</div>
+<div align="left">
+	<p> 2019 Java SW 엔지니어 과정 수료 / 비트교육센터</p>
 	<p>2022 컴퓨터정보학회 하계 학술대회 - 논문 우수상</p>
 	<p>2022 제2회 경기도 온라인 메이커 경진대회 - 최우수상(중소기업청장상-용인시산업진흥원)</p>
+	
 </div>
 
+<br>
+<br>
+<br>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
@@ -30,7 +34,7 @@
 </div>
 <br>
 <div align=center>
-	<p>🛠 Tools 🛠</p>
+	<h3>🛠 Tools 🛠</h3>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
@@ -42,6 +46,8 @@
 	<img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
+<br>
+<br>
 <div align="center">	
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=asgardsun&theme=tokyonight&show_icons=true" width="42%" />
