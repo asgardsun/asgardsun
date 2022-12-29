@@ -21,4 +21,3 @@ Here are some ideas to get you started:
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=asgardsun&theme=tokyonight&show_icons=true" width="42%" />
 </a>
-<img src="https://raw.githubusercontent.com/asgardsun/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
