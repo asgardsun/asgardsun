@@ -2,15 +2,17 @@
 	<h1>JaeGeun's Profile🧑🏻‍💻</h1>
 </div>
 <div align="left">
-	<p>2019 Java SW 엔지니어 과정 수료 / 비트교육센터</p>
-	<p>2022 컴퓨터정보학회 하계 학술대회 - 논문 우수상</p>->Microsoft Luis를 활용한 전시장 추천 챗봇 설계 및 구현(https://github.com/asgardsun/asgardsun/files/10322967/Microsoft.Luis.pdf)
+	<h3>2019 Java SW 엔지니어 과정 수료 / 비트교육센터</h3>
+	<h3>2022 컴퓨터정보학회 하계 학술대회 - 논문 우수상</h3>->Microsoft Luis를 활용한 전시장 추천 챗봇 설계 및 구현(https://github.com/asgardsun/asgardsun/files/10322967/Microsoft.Luis.pdf)
+	<p> Repository : https://github.com/asgardsun/stratUp
 	<br>
 	<br>
-	<p>2022 제2회 경기도 온라인 메이커 경진대회 - 최우수상(중소기업청장상
-용인시산업진흥원)</p>->졸음운전 방지 시스템(https://github.com/asgardsun/asgardsun/files/10322982/Contest_Project.pdf)
+	<h3>2022 제2회 경기도 온라인 메이커 경진대회 - 최우수상(중소기업청장상
+용인시산업진흥원)</h3>->졸음운전 방지 시스템(https://github.com/asgardsun/asgardsun/files/10322982/Contest_Project.pdf)
+	<p> Repository: https://github.com/asgardsun/online_maker
 	<br>
 	<br>
-	<p>외주 개발 웹페이지 : http://vdream-techauction.co.kr/jbtp_2022/</p>
+	<h3>외주 개발 웹페이지 : http://vdream-techauction.co.kr/jbtp_2022/</h3>
 	
 </div>
 <br>
