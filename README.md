@@ -1,5 +1,5 @@
 <div align="center">	
-	<h1>Profile🧑🏻‍💻</h1>
+	<h1>JaeGeun's Profile🧑🏻‍💻</h1>
 </div>
 <div align="left">
 	<p>2019 Java SW 엔지니어 과정 수료 / 비트교육센터</p>
